@@ -21,9 +21,9 @@ Se desea encontrar un camino que conecte la celda de la esquina superior izquier
 **Ejemplo**
 ```
 matriz = 3,  2, 12, 15, 10
-		     6, 19,  7, 11, 17
-		     8,  5, 12, 32, 21
-		     3, 20,  2,  9,  7
+         6, 19,  7, 11, 17
+         8,  5, 12, 32, 21
+         3, 20,  2,  9,  7
 
 output = 52
 ```
