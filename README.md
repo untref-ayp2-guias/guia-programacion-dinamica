@@ -1,4 +1,4 @@
-# Guía 12
+# Guía 11
 ## Implementaciones de las diapositivas
 
 En las siguientes carpetas se encuentran las implementaciones del código suministrado en las clases:
