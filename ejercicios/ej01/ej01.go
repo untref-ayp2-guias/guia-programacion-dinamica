@@ -4,5 +4,5 @@ package ej01
 // Se desea encontrar un camino que conecte la celda de la esquina superior izquierda con la esquina inferior derecha, cuyo coste total es mínimo. Devolver el costo del camino.
 
 func CostoCaminoMinimo(matriz [][]int) int {
-	panic("Not implemented")
+	return -1
 }

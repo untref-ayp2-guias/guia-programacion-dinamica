@@ -4,5 +4,5 @@ package ej04
 // Cada elemento puede ser utilizado a lo sumo una vez.
 
 func Mochila(valores, pesos []int, k int) int {
-	panic("Not implemented")
+	return -1
 }
